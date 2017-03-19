@@ -121,7 +121,7 @@ header nav ul li a{
 	height: 580px;
 	padding: 1px;
 	border-radius: 50%;
-	background: #e8eced url('../IMG/1.jpg') no-repeat center;
+	background: #e8eced url('1.png') no-repeat center;
 }
 
 #Hero-Image h2 {
@@ -164,13 +164,13 @@ color: #000;
 	}
 
 #features ul li.feature-1 {
-	background: url('../IMG/icon-1.png') no-repeat top center;
+	background: url('icon-1.png') no-repeat top center;
 }
 #features ul li.feature-2 {
-	background: url('../IMG/icon-2.png') no-repeat top center;
+	background: url('icon-2.png') no-repeat top center;
 }
 #features ul li.feature-3 {
-	background: url('../IMG/icon-3.png') no-repeat top center;
+	background: url('icon-3.png') no-repeat top center;
 }
 #primary-content{
 	background-color: #f8fafa;
